@@ -24,7 +24,7 @@ Parts of Vault (Topic-wise)
 
       1.1 You can create many Secret Engine Types:
 
-        1.1.1 Generic
+        - 1.1.1 Generic
           - KV
           - PKI Certificates
           - SSH
